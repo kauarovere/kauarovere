@@ -38,3 +38,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,flask,mysql,postgres,react,js,ts,html,css,figma,wordpress,docker,git&amp;perline=7" alt="Habilidades" />
 </p>
+
+
+---
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauarovere/kauarovere/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauarovere/kauarovere/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Game" src="https://raw.githubusercontent.com/kauarovere/kauarovere/output/pacman-contribution-graph-dark.svg" width="100%">
+  </picture>
+</p>
