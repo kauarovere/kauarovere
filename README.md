@@ -23,13 +23,13 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🏢 Atualmente atuo como **Assessor II na Prefeitura de São Paulo (SEGES)**, desenvolvendo soluções voltadas à gestão pública, análise de dados e transformação digital.
-- 🎓 Estudante de **Ciência e Tecnologia na UFABC**, com foco em Engenharia de Dados, Computação em Nuvem e Desenvolvimento de Software.
-- 📊 Experiência na construção de **dashboards, análises de dados e automação de processos**, utilizando **Python, SQL, Power BI e APIs** para apoiar a tomada de decisão.
-- 🐍 Desenvolvo soluções em **Python**, aplicando automação, tratamento de dados, integração entre sistemas e boas práticas de desenvolvimento.
-- 🐳 Trabalho com ambientes utilizando **Docker, Linux, Git, MySQL e WordPress**, participando do desenvolvimento e manutenção de aplicações e portais institucionais.
-- ☁️ Tenho grande interesse em **Data Engineering, Cloud Computing, DevOps e Inteligência Artificial**, buscando constantemente aprofundar meus conhecimentos nessas áreas.
-- 🚀 Atualmente estou expandindo meus conhecimentos em tecnologias voltadas para Engenharia de Dados, arquitetura de dados, pipelines ETL e ecossistemas de Cloud.
+- Atualmente atuo como **Assessor II na Prefeitura de São Paulo (SEGES)**, desenvolvendo soluções voltadas à gestão pública, análise de dados e transformação digital.
+- Estudante de **Ciência e Tecnologia na UFABC**, com foco em Engenharia de Dados, Computação em Nuvem e Desenvolvimento de Software.
+- Experiência na construção de **dashboards, análises de dados e automação de processos**, utilizando **Python, SQL, Power BI e APIs** para apoiar a tomada de decisão.
+- Desenvolvo soluções em **Python**, aplicando automação, tratamento de dados, integração entre sistemas e boas práticas de desenvolvimento.
+- Trabalho com ambientes utilizando **Docker, Linux, Git, MySQL e WordPress**, participando do desenvolvimento e manutenção de aplicações e portais institucionais.
+- Tenho grande interesse em **Data Engineering, Cloud Computing, DevOps e Inteligência Artificial**, buscando constantemente aprofundar meus conhecimentos nessas áreas.
+- Atualmente estou expandindo meus conhecimentos em tecnologias voltadas para Engenharia de Dados, arquitetura de dados, pipelines ETL e ecossistemas de Cloud.
 
 ---
 
