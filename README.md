@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 - Atualmente atuo como **Assessor II na Prefeitura de São Paulo (SEGES)**, desenvolvendo soluções voltadas à gestão pública, análise de dados e transformação digital.
 - Estudante de **Ciência e Tecnologia na UFABC**, com foco em Engenharia de Dados, Computação em Nuvem e Desenvolvimento de Software.
