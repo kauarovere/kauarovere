@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Kauã Rovere!</h1>
+<h1 align="center">Olá, eu sou o Kauã Rovere!</h1>
 <h3 align="center">Desenvolvedor Fullstack | Entusiasta de Inteligência Artificial </h3>
 
 <p align="center">
