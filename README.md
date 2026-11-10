@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Kauã Rovere!</h1>
-<h3 align="center">Desenvolvedor Fullstack | Entusiasta de Inteligência Artificial </h3>
+<h3 align="center">AI Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-rovere/" target="_blank">
